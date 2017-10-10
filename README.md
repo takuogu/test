@@ -1,5 +1,3 @@
 # test
 
-
-
-
+![model](./ss.stl)
